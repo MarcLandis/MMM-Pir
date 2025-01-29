@@ -1,5 +1,5 @@
 {
-  "name": "MMM-Pir",
+  "name": "mmm-pir",
   "version": "2.4.5",
   "description": "Screen manager",
   "keywords": [
@@ -8,13 +8,13 @@
     "screen",
     "motion detection"
   ],
-  "homepage": "https://github.com/bugsounet/MMM-Pir",
+  "homepage": "https://github.com/MarcLandis/MMM-Pir",
   "bugs": {
-    "url": "https://www.bugsounet.fr/"
+    "url": "https://github.com/MarcLandis/MMM-Pir/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bugsounet/MMM-Pir"
+    "url": "https://github.com/MarcLandis/MMM-Pir"
   },
   "license": "MIT",
   "author": "bugsounet",
