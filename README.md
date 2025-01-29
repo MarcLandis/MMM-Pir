@@ -4,15 +4,15 @@ After a configured time without any user interaction the display will turn off a
 
 It will wake up with a Pir sensor, Touch screen or crontab
 
-## Screenshot
+## Screenshots
 
-![screenshot1](https://raw.githubusercontent.com/bugsounet/MMM-Pir/dev/screenshot/screenshot.png)
+![screenshot1](screenshot/screenshot.png)
 
-![screenshot2](https://raw.githubusercontent.com/bugsounet/MMM-Pir/dev/screenshot/screenshot2.png)
+![screenshot2](screenshot/screenshot2.png)
 
-![screenshot3](https://raw.githubusercontent.com/bugsounet/MMM-Pir/dev/screenshot/screenshot3.png)
+![screenshot3](screenshot/screenshot3.png)
 
-![screenshot4](https://raw.githubusercontent.com/bugsounet/MMM-Pir/dev/screenshot/screenshot4.png)
+![screenshot4](screenshot/screenshot4.png)
 
 ## Installation
 
@@ -23,7 +23,7 @@ Clone the module into your MagicMirror module folder and execute `npm run setup`
 
 ```sh
 cd ~/MagicMirror/modules
-git clone https://github.com/bugsounet/MMM-Pir
+git clone https://github.com/MarcLandis/MMM-Pir
 cd MMM-Pir
 npm run setup
 ```

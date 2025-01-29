@@ -1,6 +1,5 @@
 /**************************
 * node_helper for MMM-Pir *
-* BuGsounet               *
 ***************************/
 
 var log = () => { /* do nothing */ };

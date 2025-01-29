@@ -64,9 +64,6 @@ function minify (FileIn) {
         outfile: FileOut,
         banner: {
           js: `/** ${project}\n  * File: ${MyFileName}\n  * Version: ${version}\n  * Revision: ${revision}\n  * ⚠ This file must not be modified ⚠\n**/`
-        },
-        footer: {
-          js: "/** ❤ Coded With Heart by @bugsounet -- https://www.bugsounet.fr **/"
         }
       });
       resolve(true);

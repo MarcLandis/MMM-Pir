@@ -1,7 +1,5 @@
 /*************
 *  MMM-Pir   *
-*  Bugsounet *
-*  09/2024   *
 *************/
 
 /* global screenDisplayer, screenTouch, motionLib */
